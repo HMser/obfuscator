@@ -1,0 +1,22 @@
+{
+  "name": "obfuscator",
+  "version": "1.0.0",
+  "description": "Obfuscator and deobfuscator website using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "obfuscator",
+    "deobfuscator",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "multer": "^1.4.3",
+    "obfuscator": "^0.0.7"
+  }
+}
